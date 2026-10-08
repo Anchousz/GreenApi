@@ -25,8 +25,13 @@
 - **Oxlint**
 
 ## Установка
-
 ```bash
 git clone https://github.com/ВАШ_НИК/НАЗВАНИЕ_РЕПО.git
 cd НАЗВАНИЕ_РЕПО
 npm install
+```
+
+## Запуск
+```bash
+npm run dev
+```
